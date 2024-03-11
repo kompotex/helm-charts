@@ -5,3 +5,4 @@ This folder provide the fleet definitions in the workshop done at DevOpsDays Gen
 ## Content
 
 * `fleet`: YAML definitions
+* 
